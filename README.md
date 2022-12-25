@@ -1,5 +1,5 @@
 # WL-UG3501H (Ubuntu 20.04 Kernel 5.15.0-56)
-Guia de instalação do dispositivo WL-UG3501H (Ubuntu 20.04 Kernel 5.15.0-56).
+Guia de instalação do dispositivo WL-UG3501H (Ubuntu 22.04 Kernel 5.15.0-56).
 
 Com o dispositivo desconectado:
 
